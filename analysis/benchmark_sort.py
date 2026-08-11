@@ -51,7 +51,7 @@ def main():
     parser.add_argument('--output-plot', default='graph/sort_performance.png')
     args = parser.parse_args()
 
-    sizes = [100, 500, 1000, 5000, 10000, 50000]
+    sizes = [100, 500, 1000, 5000, 10000]
     dtypes = ['random', 'sorted', 'reversed']
     algorithms = [
         ('bubble', bubble_sort),

@@ -124,6 +124,12 @@ python analysis/benchmark_sort.py --trials 5
 
 ---
 
+## Run the algos
+
+```bash
+python -m analysis.benchmark_sort
+```
+
 ## Author
 
 **Paul Lecomte** — Essex University, Year 1
