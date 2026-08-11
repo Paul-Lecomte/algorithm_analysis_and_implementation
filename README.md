@@ -28,9 +28,9 @@ The following choices are still **to be confirmed**:
 
 | Decision | Status |
 |----------|--------|
-| Algorithm | TBD |
-| Comparative Algorithm | TBD |
-| Language | TBD |
+| Algorithm | Bubble sort |
+| Comparative Algorithm | Quick sort |
+| Language | Python |
 
 ---
 
