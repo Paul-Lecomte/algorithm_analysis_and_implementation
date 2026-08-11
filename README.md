@@ -83,7 +83,31 @@ algorithm_analysis_and_implementation/
 
 ## Getting Started
 
-*Details will be added here once the programming language and setup requirements are confirmed.*
+This repository is scaffolded for Option 1 (Bubble Sort vs Quicksort) using Python.
+
+Quick setup and run instructions:
+
+1. Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the benchmark scaffold (algorithms are currently stubs and will be skipped until implemented):
+
+```bash
+python analysis/benchmark_sort.py --trials 5
+```
+
+4. Results CSV will be in `analysis/sort_results.csv` and the plot in `graph/sort_performance.png`.
+
 
 ---
 
