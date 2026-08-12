@@ -113,7 +113,7 @@ python analysis/benchmark_sort.py --trials 5
 
 ## Report Summary
 
-*The 300-word report will be added to this repository once written.*
+see reports [here](report/300-word.md)
 
 ---
 
@@ -123,12 +123,6 @@ python analysis/benchmark_sort.py --trials 5
 2. Essex University (2026). *Launch into Computing — Unit 3: Algorithm Analysis and Implementation*. Module brief.
 
 ---
-
-## Run the algos
-
-```bash
-python -m analysis.benchmark_sort
-```
 
 ## Author
 
